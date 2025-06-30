@@ -5,4 +5,5 @@ Hi! My name is Shriya Dale, and I'm a CS Rodman Scholar at the University of Vir
 
 ## Find me around the web 🌎:
 * **LinkedIn:** https://www.linkedin.com/in/shriyadale/
+*  **Personal Website:** https://shriyadale.github.io/personalwebsite/
 
