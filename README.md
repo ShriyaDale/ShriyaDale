@@ -1,9 +1,7 @@
-## Shriya's GitHub Profile 👋🏾 👩🏾‍💻
 
+Hi! My name is Shriya Dale, and I'm a UVA Alum who's passionate about the intersection of computer science, product design, and finance.
 
-Hi! My name is Shriya Dale, and I'm a CS Rodman Scholar at the University of Virginia who's passionate about the intersection of computer science, product design, and finance.
-
-## Useful Links 🌎:
+# Useful Links 🌎:
 * **LinkedIn:** https://www.linkedin.com/in/shriyadale/
 *  **Personal Website:** https://shriyadale.github.io/personalwebsite/
 
